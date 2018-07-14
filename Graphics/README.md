@@ -1,6 +1,7 @@
 This is a basic graphics program in which i show the movement of car.
 
 Rules:
+      
       Press w to Move Upward
    
       Press s to Move Downward
